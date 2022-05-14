@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Treviso
 * ✉️  You can contact me at [pestrinmarco@gmail.com](mailto:pestrinmarco@gmail.com)
-* 🚀  I'm currently working on [Enhancers](http://enhancers.it/)
+* 🚀  I'm currently working on [Enhancers](http://enhancers.it/){:target="_blank"}
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on front-end and back-end development
 
