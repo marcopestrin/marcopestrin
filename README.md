@@ -4,7 +4,7 @@ Hi 👋 My name is Marco Pestrin
 Web Developer
 -------------
 
-* 🌍  I'm based in Treviso
+* 🌍  I'm based in Treviso, Italy
 * ✉️  You can contact me at [pestrinmarco@gmail.com](mailto:pestrinmarco@gmail.com)
 * 🚀  I'm currently working on [Enhancers](http://enhancers.it/)
 * 🧠  I'm learning AWS
